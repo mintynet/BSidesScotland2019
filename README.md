@@ -1,6 +1,6 @@
 # BSidesScotland2019
 Repository for information for the BSides Scotland 2019 / Car Hacking Village UK Badge
-<br>The badge is a cheap device for people to get into car hacking, the sketch attached will cause disco mode on PD0 'The Car in a Box'
+<br>The badge is a cheap device for people to get into car hacking, the sketch that will be below will cause disco mode on PD0 'The Car in a Box'
 <br><br><b>BSides Scotland and I take no responsibility for any issues caused if using either the hardware or the code</b>
 <br><br>Requires the use of the following Arduino library
 <br><br>https://github.com/coryjfowler/MCP_CAN_lib
