@@ -7,6 +7,8 @@ Repository for information for the BSides Scotland 2019 / Car Hacking Village UK
 <br><br>Below is the components which are required to build your own Nano-can Adapter
 <br><br>The components shown below are available from aliexpress/ebay/amazon in that order of cost, but delivery is probably highest on the cheaper, search for alice1101983 on ebay for the active components
 
+<br><br>https://github.com/mintynet/nano-can has the other sketches for the device.
+
 <br><b>Schematic</b>
 ![PCB Schematic](Schematic_nano-can-pcb.png)
 Note:
@@ -22,6 +24,6 @@ Note:
 <br><b>OBD2 connector</b>
 ![OBD2 connector](obd2-connector.jpg)
 <br><b>PCB Top</b><br>
-![PCB TOP](top-pcb.JPG)
+![PCB TOP](top-pcb.jpg)
 <br><b>PCB Bottom</b><br>
-![PCB BOTTOM](bottom-pcb.JPG)
+![PCB BOTTOM](bottom-pcb.jpg)
