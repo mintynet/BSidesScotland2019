@@ -5,7 +5,12 @@ Repository for information for the BSides Scotland 2019 / Car Hacking Village UK
 <br><br>Requires the use of the following Arduino library
 <br><br>https://github.com/coryjfowler/MCP_CAN_lib
 <br><br>Below is the components which are required to build your own Nano-can Adapter
-<br><br>The components shown below are available from aliexpress/ebay/amazon in that order of cost, but delivery is probably highest on the cheaper, search for alice1101983 on ebay for the active components
+<br><br>The components shown below are available from aliexpress/ebay/amazon in that order of cost, but delivery is probably highest on the cheaper.
+[Arduino Nano](https://www.ebay.co.uk/itm/USB-Nano-V3-0-ATMEGA328P-CH340G-5V-16M-Micro-Controller-Board-For-Arduino/201649419996)
+[MCP2515 Module](https://www.ebay.co.uk/itm/For-Arduino-MCP2515-CAN-Bus-Module-TJA1050-Receiver-SPI-Module/311520457612)
+I have used the above links from alice1101983 myself and delivery is normally 3 weeks to UK
+[OBD2 Plug](https://www.aliexpress.com/item/Car-Diagnostic-Tool-OBD-Male-Plug-16Pin-OBD2-Connector-OBD-2-16-Pin-OBD-II-Adaptor/32790225414.html)
+I have also used the above link, delivery has been varied from 9 to 40 days, but that may because I was ordering bulk.
 
 <br><br>https://github.com/mintynet/nano-can has the other sketches for the device.
 
