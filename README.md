@@ -18,9 +18,10 @@ Repository for information for the BSides Scotland 2019 / Car Hacking Village UK
 ![PCB Schematic](Schematic_nano-can-pcb.png)
 Note:
 <br>Arduino Nano goes on the top with the URL on.
+<br><b>TIP</b>Add extra solder to the sides of the USB connector or you may rip the USB connector of the board
 ![Arduino Nano](arduino-nano.jpg)
-<br>MCP2515 Module goes on the bottom but DO NOT solder the Terminator Jumper or CAN pin headers to the PCB
-<br>You may require a jumper on the Terminator resistor
+<br>MCP2515 Module goes below the nano but DO NOT solder the Terminator Jumper or CAN pin headers to the PCB
+<br>You may require a jumper on the Terminator resistor if using back to back.
 ![MCP2515](mcp2515.JPG)
 <br>L goes to OBD2 pin 14
 <br>H goes to OBD2 pin 6
