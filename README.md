@@ -22,6 +22,7 @@ Note:
 ![Arduino Nano](arduino-nano.jpg)
 <br>MCP2515 Module goes below the nano but DO NOT solder the Terminator Jumper or CAN pin headers to the PCB
 <br>You may require a jumper on the Terminator resistor if using back to back.
+<br>To solder the CAN module to the board, add extra solder to the back of the pins, then heat the pins and push through so that the pins are on the rear, then remove the plastic pin spacer left on the top and add extra solder to the pins.
 ![MCP2515](mcp2515.JPG)
 <br>L goes to OBD2 pin 14
 <br>H goes to OBD2 pin 6
