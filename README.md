@@ -1,11 +1,11 @@
 # BSidesScotland2019
-Repository for information for the BSides Scotland 2019 / Car Hacking Village UK Badge
+Repository for information on the BSides Scotland 2019 / Car Hacking Village UK Badge
 <br>The badge is a cheap device for people to get into car hacking, the sketch that will be below will cause disco mode on PD0 'The Car in a Box'
 <br><br><b>BSides Scotland and I take no responsibility for any issues caused if using either the hardware or the code</b>
 <br><br>Requires the use of the following Arduino library
 <br><br>https://github.com/coryjfowler/MCP_CAN_lib
-<br><br>Below is the components which are required to build your own Nano-can Adapter
-<br><br>The components shown below are available from aliexpress/ebay/amazon in that order of cost, but delivery is probably highest on the cheaper.
+<br><br>Below is the components which are required to build your own BSides Scotland 2019 Badge
+<br><br>The components shown below are available from aliexpress/ebay/amazon in that order of cost, but delivery time is probably highest on the cheaper.
 <br>[Arduino Nano](https://www.ebay.co.uk/itm/USB-Nano-V3-0-ATMEGA328P-CH340G-5V-16M-Micro-Controller-Board-For-Arduino/201649419996)
 <br>[MCP2515 Module](https://www.ebay.co.uk/itm/For-Arduino-MCP2515-CAN-Bus-Module-TJA1050-Receiver-SPI-Module/311520457612)
 <br>I have used the above links from alice1101983 myself and delivery is normally 3 weeks to UK
