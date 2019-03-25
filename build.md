@@ -13,8 +13,8 @@
 <br><br>Then program with can-receive-all sketch
 
 ## Instructions
-<br>Parts plus 2 core wire is required (PCB will be the BSides Scotland Badge
-<br>![Parts plus 2 core wire is required](build/build01.jpg)
+<br>Parts plus 2 core wire is required (PCB will be the BSides Scotland Badge)
+<br>![Parts plus 2 core wire is required (PCB will be the BSides Scotland Badge)](build/build01.jpg)
 <br>PCB in holder
 <br>![PCB in holder](build/build02.jpg)
 <br>PCB rear in holder
